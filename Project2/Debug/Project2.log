@@ -1,0 +1,16 @@
+﻿  Project2.cpp
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Project2.cpp(16,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Project2.cpp(63,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Project2.cpp(75,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Project2.cpp(83,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Binary_Search_Tree.h(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Binary_Search_Tree.h(117): message : while compiling class template member function 'bool Binary_Search_Tree<std::string>::insert(BTNode<Item_Type> *&,const Item_Type &,std::string)'
+          with
+          [
+              Item_Type=std::string
+          ]
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Project2.cpp(60): message : see reference to class template instantiation 'Binary_Search_Tree<std::string>' being compiled
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Binary_Search_Tree.h(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Binary_Search_Tree.h(148): message : while compiling class template member function 'std::string Binary_Search_Tree<std::string>::decode(std::string)'
+C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Project2\Project2.cpp(76): message : see reference to function template instantiation 'std::string Binary_Search_Tree<std::string>::decode(std::string)' being compiled
+  Project2.vcxproj -> C:\Users\pauli\Documents\UMKC\Summer 20\Data S\Project2\Debug\Project2.exe
